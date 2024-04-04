@@ -8,7 +8,7 @@ function determinarGrupo(nombre, sexo) {
     }
 }
 
-console.log(determinarGrupo('Ana', 'mujer')); // Grupo A
-console.log(determinarGrupo('Pedro', 'hombre')); // Grupo A
-console.log(determinarGrupo('Maria', 'mujer')); // Grupo B
-console.log(determinarGrupo('Nacho', 'hombre')); // Grupo B
+console.log(determinarGrupo('Ana', 'mujer')); 
+console.log(determinarGrupo('Pedro', 'hombre'));
+console.log(determinarGrupo('Maria', 'mujer'));
+console.log(determinarGrupo('Nacho', 'hombre'));
